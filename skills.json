@@ -1,6 +1,6 @@
 [
   { "name": "ReactJS", "icon": "https://img.icons8.com/color/96/react-native.png" },
-  { "name": "ExpressJS", "icon": "https://img.icons8.com/ios-filled/100/express-js.png" },
+  { "name": "FastAPI", "icon": "https://img.icons8.com/color/96/api-settings.png" },
   { "name": "NodeJS", "icon": "https://img.icons8.com/color/96/nodejs.png" },
   { "name": "Firebase", "icon": "https://img.icons8.com/color/96/firebase.png" },
   { "name": "Android", "icon": "https://img.icons8.com/color/96/android-os.png" },
@@ -16,9 +16,9 @@
 
   { "name": "Machine Learning", "icon": "https://img.icons8.com/color/96/artificial-intelligence.png" },
   { "name": "EDA", "icon": "https://img.icons8.com/color/96/combo-chart--v1.png" },
-  { "name": "Big Data", "icon": "https://img.icons8.com/color/96/big-data.png" },
+  { "name": "Data Structures & Algorithms", "icon": "https://img.icons8.com/color/96/flow-chart.png" },
   { "name": "NLP", "icon": "https://img.icons8.com/color/96/artificial-intelligence.png" },
-  { "name": "Deep Learning", "icon": "https://img.icons8.com/color/96/deep-learning.png" },
+  { "name": "Computer Vision", "icon": "https://img.icons8.com/color/96/face-id.png" },
 
   { "name": "Git", "icon": "https://img.icons8.com/color/96/git.png" },
   { "name": "GitHub", "icon": "https://img.icons8.com/glyph-neue/96/ffffff/github.png" },
